@@ -4,6 +4,8 @@
 <br/>
 	[![](logo.png)] (https://www.jetbrains.com/?from=goex)
 </div>
+### I could use this for golang code to access bitmex REST api
+### Until I can write go code for the bitmex websockets API
 
 ### goex目标
 
